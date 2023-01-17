@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Api>
+		<Url>http://swopenAPI.seoul.go.kr/api/subway</Url>
+		<Key>7a6f5758756a6f6f39335575665052</Key>
+	</Api>
+</Configuration>
